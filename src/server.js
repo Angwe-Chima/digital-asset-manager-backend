@@ -22,7 +22,7 @@ const app = express();
 
 const allowedOrigins = [
   'http://localhost:5173',
-  'https://angwe-chima.github.io',
+  'https://chima-angwe.github.io',
 ];
 
 app.use(
